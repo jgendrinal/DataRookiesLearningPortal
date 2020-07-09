@@ -1,10 +1,8 @@
----
-title: README
----
+# title: README
 
-This Learning Portal is an effort of the DataRookies community to help those who are starting to learn Data Science find the right resources for the right level. The portal is meant to be a collation of articles, tutorials, and other learning materials that could serve as a guide for one's learning journey.
+This document aims to collect Data Science resources and tie them together into logical and comprehensive learning paths. Most resources are either product-promoting, or product-specific. They tend to push people to learn in a direction best suited to using their package, framework, or language of choice. The content here will help you learn data science to meet *your* goals. 
 
-This is an open community project, so feel free to push your own commits to this repo with updated links or better tutorials to help those who are just starting out!
+This is a fork of work done by [@aescay](https://github.com/aescay) on the DataRookiesLearningPortal package. Feel free to contribute here by forking this repository and sending a pull request!
 
 ## Tutorials
 
