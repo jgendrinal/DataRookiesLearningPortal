@@ -40,7 +40,7 @@ Play with this [dataset](https://colinfay.me/clients-db/).
 
 #### Summary statistics
 
-#### Basic modelling
+#### Linear regression
 
 ### Business acumen
 
