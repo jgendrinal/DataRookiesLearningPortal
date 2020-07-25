@@ -24,7 +24,18 @@ Learn to read data in, transform it, get some basic statistics out of it, then s
 
 <!-- Material to recommend -->
 
+Here are some specific code lessons. 
+
+The basics of navigating the language - [R]() [Py]()
+IDEs - [R: RStudio]() [Py: Jupyter]()
+Reading in data - [R]()
+Picking and dropping variables - [R]() [Py]()
+Filtering - [R]() [Py]()
+Transforming variables - [R]() [Py]()
+
 In all honesty, R and Python are gateway drugs to data science. What I mean by this is that these two things will get you into this field (see every job description requirement for Data Analyst/Data Scientist, etc.), but being extreme at these isn't the shit. Once you get the job, or get projects going, you have to be prepared with the real guns.
+
+<!-- Andrew's take -->
 
 #### SQL
 
@@ -34,11 +45,15 @@ Unfortunately, you really won't get exposure to a real-life database with the pr
 
 <!-- Material to recommend -->
 
+Learning the basics - [SelectStarSQL](https://selectstarsql.com/)
+Some Medium-Hard Problems - [Zachary Thomas](https://quip.com/2gwZArKuWk7W)
+Handy Query style guide - [DBT](https://github.com/fishtown-analytics/corp/blob/master/dbt_coding_conventions.md)
+
 Play with this [dataset](https://colinfay.me/clients-db/).
 
 ### Statistics
 
-#### Summary statistics
+#### Summary statistics1
 
 #### Linear regression
 
